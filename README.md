@@ -6,7 +6,7 @@ using Python, Pandas, and Matplotlib. AI (Claude) was used to generate insights
 and support analysis interpretation.
 
 **Dataset:** Sales Funnel Data – User Drop-off Analysis (Kaggle, by Andrew Jaya Satyo)  
-**Tools:** Python · Pandas · Matplotlib · Google Colab · Claude AI
+**Tools:** Python · Pandas · Matplotlib · Google Colab · Claude AI · Tableau Public
 
 ---
 
@@ -54,10 +54,14 @@ at the Home page.
 
 ---
 
+
 ## Visualizations
 ![Sales Funnel Analysis](funnel_analysis.png)
 
+📊 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/SalesFunnelAnalysisDashboard/2_1)
+
 ---
+
 
 ## Project Structure
 
