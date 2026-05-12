@@ -64,7 +64,7 @@ at the Home page.
 
 
 ## Project Structure
-
+```
 ├── funnel_analysis.ipynb
 ├── funnel_analysis.png
 ├── home_page_table.csv
@@ -72,3 +72,4 @@ at the Home page.
 ├── payment_page_table.csv
 ├── payment_confirmation_table.csv
 └── user_table.csv
+```
